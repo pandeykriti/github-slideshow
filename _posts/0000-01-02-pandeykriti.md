@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Open Source I am coming!
 Use the left arrow to go back!
